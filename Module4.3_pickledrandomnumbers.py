@@ -1,0 +1,4 @@
+
+
+
+# Create a script called pickledrandomnumbers.py. In this script, create a dictionary consisting of 26 alphabetic keys (a to z), each with an associated random number in the range 0 to 1000. The script should only generate the random numbers if there is no pickle in which the dictionary is saved. If the dictionary already exists, load the data from the pickle. Display the dictionary to the user. Ask if the user wishes to update any of the entries. If "y", ask the user which entries they wish to update from a to z. Once the key has been selected, ask the user for a new numeric value to store with the key. If the dictionary has been updated, recreate the pickle.
